@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: hackBlog 🥷🏼💻 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 🌐 Blog personal dedicado a la ciberseguridad, en concreto al Pentesting 🛑💻 Iré publicando contenido de aprendizaje enfocado al Red Team, así como teoría con ejemplos prácticos, y variedad de WriteUps sobre CTF's (HackTheBox, Vulnhub, TryHackMe). Espero que te sirva de ayuda 🦾💻📝 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,20 +26,20 @@ description: >- # used by seo meta and the atom feed
 url: https://n41rr47.github.io
 
 github:
-  username: github_username # change to your GitHub username
+  username: n41RR47 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: @n41RR47 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Christian Díez
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/n41RR47 # change to your Twitter homepage
+    - https://github.com/n41RR47 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:  [dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
